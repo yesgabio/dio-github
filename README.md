@@ -1,3 +1,3 @@
 # dio-github
 
-### Desafio de projeto no GitHub
+### Desafio de projeto no Git/GitHub
